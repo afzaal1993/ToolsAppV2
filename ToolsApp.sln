@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsApp", "ToolsApp.csproj", "{9FBBFE5A-30A0-4C62-A294-9403DE0CBF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBBFE5A-30A0-4C62-A294-9403DE0CBF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBBFE5A-30A0-4C62-A294-9403DE0CBF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBBFE5A-30A0-4C62-A294-9403DE0CBF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBBFE5A-30A0-4C62-A294-9403DE0CBF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5653FAE5-DE21-42E3-8720-B7D03259D15D}
+	EndGlobalSection
+EndGlobal
